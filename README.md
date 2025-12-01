@@ -28,7 +28,7 @@
 
 -----
 
-#### **2025 \[17]**
+#### **2025 \[19]**
 
 * 2025/01 : **House Of Furniture(가구의집)** 	\[오늘의 집 모방 사이트 - React, Spring, Vision API, CI/CD, Prometheus/Grafana, Discord]
 * 2025/03 : Auto Stock 				\[주식 자동 매매(키움) - mean-reversion + 모멘텀 필터 혼합 전략]
