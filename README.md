@@ -28,7 +28,7 @@
 
 -----
 
-#### **2025 \[19]**
+#### **2025 \[20]**
 
 * 2025/01 : **House Of Furniture(가구의집)** 	\[오늘의 집 모방 사이트 - React, Spring, Vision API, CI/CD, Prometheus/Grafana, Discord]
 * 2025/03 : Auto Stock 				\[주식 자동 매매(키움) - mean-reversion + 모멘텀 필터 혼합 전략]
@@ -48,7 +48,8 @@
 * 2025/08 : **Auto Stock2** 				\[주식 자동 매매2(업비트) - 추세 추종 + 평균회귀 필터 혼합 전략]
 * 2025/08 : **Map Center** 				\[대중교통 이용하여 중간 거리 계산 사이트 - Tmap(대중교통), Naver Map(지도), Kakao Map(검색)]
 * 2025/08 : Delete Program 			\[프로그램 일괄 삭제/제거 - python, dist]
-* 2025/11 : **Auto Blog Posting2 (Tistory)** 			\[2024/05 : **Auto Blog Posting** 업그레이드]
+* 2025/11 : **Auto Blog Posting2 (Tistory)** 			\[자동 블로그 생성 및 등록 - 2024/05 : **Auto Blog Posting** 업그레이드]
+* 2025/12 : regis_todo_list 			\[정기 점검 Todo List 프로그램]
 
 
 
