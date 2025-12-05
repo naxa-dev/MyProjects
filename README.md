@@ -1,4 +1,4 @@
-# myTotalProjects
+# MyProjects
 지금 까지 만든 프로젝트 정리
 
 #### **2023 \[3]**
