@@ -5,7 +5,7 @@
 
 #### **2023 \[3]**
 
-* 2023/03 : **Deep\_fake** 				\[딥 페이크 - Roop]
+* 2023/03 : **[Deep_fake](./projects/2023/deep_fake.md)**  *(Private/Commercial)* 				\[딥 페이크 - Roop]
 * 2023/06 : Auto YouTube 				\[자동 유튜브 생성 및 등록 - 이미지 결합, API]
 * 2023/08 : Screen\_Capture 			\[스크린 캡처 - pyautogui]
   
