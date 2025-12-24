@@ -49,7 +49,7 @@ Docker 환경 클론 프로젝트 및 AI 활용 서비스 개발
 * **2025/04** : **Auto Shorts** 🔒 [자동 숏츠 생성 및 등록 - confyUI, scheduler, bIos, youtube]
 * **2025/04** : **[MyInfo2](https://github.com/naxa-dev/myinfo2.git)** [포트폴리오2 - php]
 * **2025/04** : **[Auto KeyWord](./projects/2025/auto_keyword.md)** 🔒 [키워드 생성 프로그램 - crowing, streamlit, 네이버광고, pyinstaller, 크몽]
-* **2025/04** : Lotto Mate [로또 추천 사이트 - Spring, Security, React]
+* **2025/04** : [Lotto Mate](https://dahndellthedev.tistory.com/category/DEV-LOG/Lottomate) [[Front](https://github.com/DaHnDell/lotto_mate_frontend.git),[Back](https://github.com/jungyoonn/lotto_mate_backend.git)] [로또 추천 사이트 - Spring, Security, React]
 * **2025/06** : **[Naxa Dev](https://github.com/naxa-dev/Naxa_dev)** [내가 만든 개발 목록 배포 사이트 - PHP(CodeIgniter)]
 * **2025/06** : [Naxa Post](https://github.com/naxa-dev/NaxaPost.git) [블로그/게시판 사이트 - node, Quill]
 * **2025/06** : **[Face Reading](https://github.com/naxa-dev/FaceReader)** [관상 프로그램 - CMake, LMM(ChatGPT, Gemini), pillow]
