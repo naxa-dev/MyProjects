@@ -62,3 +62,8 @@ Docker 환경 클론 프로젝트 및 AI 활용 서비스 개발
 * **2025/08** : [Delete Program](./projects/2025/delete_program.md) [프로그램 일괄 삭제/제거 - python, dist]
 * **2025/11** : **Auto Blog Posting2 (Tistory)** 🔒 [자동 블로그 생성 및 등록 - 2024/05 : **Auto Blog Posting** 업그레이드]
 * **2025/12** : [regis_todo_list](https://github.com/naxa-dev/RegisTodoList.git) [정기 점검 Todo List 프로그램]
+
+#### **2026 [2]**
+* **2026/02** : **[MyInfo3](https://github.com/naxa-dev/myinfo3)** [포트폴리오3 - html 3D Card]
+* **2026/02** : **[Auto KeyWord v5]** 🔒 [키워드 생성 프로그램 v5 - 업그레이드 (크몽 : '쇼핑몰 창업 테마관'의 들어가는 서비스로 선정)]
+
