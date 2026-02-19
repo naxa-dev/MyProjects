@@ -66,5 +66,5 @@ Docker 환경 클론 프로젝트 및 AI 활용 서비스 개발
 #### **2026 [2]**
 * **2026/02** : **[MyInfo3](https://github.com/naxa-dev/myinfo3)** [포트폴리오3 - html 3D Card]
 * **2026/02** : **[Auto KeyWord v5]** 🔒 [키워드 생성 프로그램 v5 - 업그레이드 (크몽 : '쇼핑몰 창업 테마관' 파트너 선정)]
-* **2026/02** : **[PI_Dashboard](https://github.com/naxa-dev/PI_Dashboard.git)]** [프로젝트 인사이트 대시보드 - 엑셀 기반의 프로젝트 데이터를 시각화]
+* **2026/02** : **[PI_Dashboard](https://github.com/naxa-dev/PI_Dashboard.git)** [프로젝트 인사이트 대시보드 - 엑셀 기반의 프로젝트 데이터를 시각화]
 
